@@ -26,11 +26,25 @@
 
 <ul>
   <li><b>Backend:</b> Node.js, JavaScript</li>
-  <li><b>Bancos:</b> PostgreSQL, Firebird (sim, ainda existe 😅),Mongodb</li>
+  <li><b>Bancos:</b> PostgreSQL, Firebird (sim, ainda existe 😅), MongoDB</li>
   <li><b>Infra:</b> Windows Server, Linux (CentOS), Zabbix, Grafana, Jelastic</li>
   <li><b>Metodologias:</b> Scrum, Kanban, PDCA (e às vezes improviso 👀)</li>
   <li><b>Ferramentas:</b> YouTrack, VS Code</li>
 </ul>
+
+---
+
+<h2>🎬 Projeto atual</h2>
+
+<p>Atualmente estou recriando a <strong>interface da Netflix</strong> como um projeto pessoal! 🍿</p>
+
+<ul>
+  <li>💡 Front-end moderno</li>
+  <li>📡 Consumo de API de filmes/séries</li>
+  <li>📺 Design responsivo e componentizado</li>
+</ul>
+
+<p>🔗 Em breve aqui no GitHub! Fica de olho 👀</p>
 
 ---
 
@@ -52,6 +66,14 @@
   <li>📧 <a href="mailto:braga_wesley@live.com">braga_wesley@live.com</a></li>
   <li>📍 Curitiba - PR</li>
 </ul>
+
+---
+
+<h2 align="center">😄 Só quem trabalha com TI entende</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdkMzhkYjFkYjAyODgzZmNiZDZiZTA2Y2I3M2MwZjU3ZDU0NTNlNyZjdD1n/3o6ZsU0yIYt5gB0kBa/giphy.gif" alt="GIF engraçado de TI">
+</p>
 
 ---
 
